@@ -29,9 +29,7 @@ let MTFlex = [], MTFlexTitle = [], MTFlexRow = [], MTFlexCard = [];
 let MTFlexCR = 0, MTFlexDetails = null, MTFlexReady = false, MTP = null;
 
 function MM_Init() {
-
-    const a = getStyle();
-    const panelBackground = 'background-color: ' + ['#FFFFFF;','#222221;'][a];
+    const panelBackground = 'background-color: ' + '#222221;';
     const panelText = 'color: ' + ['#777573;','#989691;'][a];
     const transText = 'color: ' + ['#22201d;','#FFFFFF;'][a];
     const standardText = 'color: ' + ['#22201d;','#FFFFFF;'][a];
