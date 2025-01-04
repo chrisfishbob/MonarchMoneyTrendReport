@@ -56,7 +56,7 @@ You can install the script by using the **Tampermonkey** app extension in Chrome
 
 Once the above is installed, you can install or update the Monarch Money Tweaks extension by clicking on the following link:
 
-https://github.com/RobertParesi/MonarchMoneyTrendReport/raw/refs/heads/main/MonarchMoneyTweaks.user.js
+https://github.com/chrisfishbob/MonarchMoneyTrendReport/raw/refs/heads/main/MonarchMoneyTweaks.user.js
 
 
 
